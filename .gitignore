@@ -1,5 +1,7 @@
+hash
 *.out
 *.c~
 *.cu~
 *.ghch
+*.o
 *~
